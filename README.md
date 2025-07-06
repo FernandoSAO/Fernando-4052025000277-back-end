@@ -1,3 +1,7 @@
+Este é o back-end do trabalho de Engenharia de Software do aluno Fernando Oliveira
+
+-----------------------------------------------------------------------------------
+
 # API de inclusão de faturas de pagamento e empresas
 
 Esta API tem como objetivo a inclusão de faturas de pagamento e suas empresas, a possibilidade da busca por todas as faturas
